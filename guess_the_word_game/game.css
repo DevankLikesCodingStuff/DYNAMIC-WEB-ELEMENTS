@@ -15,7 +15,7 @@ body
 #player1_name , #player2_name
 {
 	display: inline-block;
-
+	margin-right: 20px;
 }
 #word
 {
